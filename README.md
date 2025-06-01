@@ -1,42 +1,54 @@
-**My Portfolio Website**
+# 🌐 My Portfolio Website
 
-Welcome to my portfolio website! This site showcases my skills, projects, and professional experiences, designed to give you insight into my journey and capabilities.
+Welcome to my portfolio website! This site showcases who I am — an Information Systems graduate with a passion for backend development, IT support, and database management. It’s designed to reflect my journey, skills, and the projects I've built.
 
-**About**
+## 📌 About
 
-The website highlights my work as an Information Systems graduate with expertise in programming, database management, and IT support. It provides an interactive and visually appealing way to explore my achievements and connect with me.
+The website provides a clean and interactive way to explore my:
+- Educational background
+- Technical projects
+- Professional experience
+- Contact details
 
-**Features**
+It’s more than just a portfolio — it’s my personal hub for sharing what I’ve learned and created.
 
-Home Page:
-A brief introduction with animated elements to create a welcoming experience.
-Projects Page:
-Highlights notable projects, including:
-Java Calculator: A functional calculator application built with Java and Swing.
-Library Management System: A SQL-based system for managing library operations.
-About Page:
-Details my educational background, professional experience, and technical skills.
-Contact Page:
-Includes multiple ways to reach me, with a clean and accessible layout.
+## ✨ Features
 
-**Technologies Used**
+- **Home Page**  
+  Animated welcome text and smooth transitions for a modern first impression.
 
-Frontend: HTML, CSS, JavaScript
-Animations: Custom animations for smooth transitions and engaging visuals
-Hosting: GitHub Pages
+- **Projects Page**  
+  Highlights key projects like:  
+  ▸ *Java Calculator* – Built with Java and Swing  
+  ▸ *Library Management System* – A SQL-based system for book and user management
 
-**How to Access**
+- **About Page**  
+  A deeper look at my academic background, technical skills, and experiences.
 
-You can visit my portfolio website here: [My Portfolio](https://itzsani.github.io/my_website/)
+- **Contact Page**  
+  Easy ways to connect with me, laid out clearly and simply.
 
-**Contributions**
+## 🛠️ Technologies Used
 
-Suggestions for improving the website are always welcome! Feel free to submit feedback or ideas to enhance the user experience or design.
+- **Frontend**: HTML, CSS, JavaScript  
+- **Animations**: Custom CSS and JS animations  
+- **Hosting**: GitHub Pages
 
-**License**
+## 🔗 How to Access
 
-This website's content and code are protected under the MIT License. You are free to use and adapt the code for personal purposes.
+Visit the live site here:  
+**[My Portfolio](https://itzsani.github.io/my_website/)**
 
-Feel free to explore the website and learn more about my work. If you have any questions or feedback, don’t hesitate to get in touch through the contact page.
+> Tip: You can also view the code and structure in the [repository](https://github.com/itzsani/my_website).
 
-Happy exploring!
+## 🙌 Contributions
+
+Got ideas for improvements or want to suggest a new feature? Feel free to open an issue or pull request — I’m always open to feedback!
+
+## 📄 License
+
+This project is licensed under the **MIT License**. You're welcome to use or modify the code for personal use.
+
+---
+
+Thanks for checking it out — hope you enjoy exploring my work!
